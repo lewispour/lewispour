@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://uk.linkedin.com/in/lewis-pour" target="_blank" rel="noreferrer"><img src="https://github.com/lewispour/introduction/blob/7aac09555b8dcc89ee4c2b8795391ffd7a3742fb/GitLogo.png" alt="my banner"></a>
+  <a href="https://uk.linkedin.com/in/lewis-pour" target="_blank" rel="noreferrer">
 </p>
 
 <h3 align="center">
@@ -15,7 +15,7 @@ I am a "DevOps" Engineer passionate about Automation and Containers!
 <a href="https://twitter.com/lewispour"><img align="left" src="https://github.com/lewispour/lewispour/blob/main/twitter.svg" alt="Lewis Pour | LinkedIn" width="21px"/></a>
 <br>
 <br>
-If you have any question/feedback, please do not hesitate to reach out to me!
+I have 2 Git Accounts, This is the one I typically use for work projects rather than personal. If you have any question/feedback, please do not hesitate to reach out to me!
 
 
 ## 💼 Tech Stack:
