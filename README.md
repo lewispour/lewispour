@@ -24,5 +24,5 @@ I have 2 Git Accounts, This is the one I typically use for work projects rather 
 
 ## 📝 Website
 
-- [Visit My Webpage](https://www.lewispour.github.io)
+- [Visit My Webpage](https://lewispour.github.io)
 
