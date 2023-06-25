@@ -2,7 +2,7 @@
   <a href="https://uk.linkedin.com/in/lewis-pour" target="_blank" rel="noreferrer">
 </p>
 <h3 align="center">
-<img src="https://api.harmansandhu.tech/?username=lewispour&txt=Cloud%20Explorer!"/>
+<img src="https://github.com/lewispour/lewispour/blob/main/GitLogo.png"/>
 </h3>
 <h5 align="center">
 I am a "DevOps" Engineer passionate about Automation and Containers!
