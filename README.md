@@ -12,6 +12,3 @@ I am a "DevOps" Engineer passionate about Automation and Containers!
 <h3 align="left"> Connect with me:</h3>
 
 <a href="https://uk.linkedin.com/in/lewis-pour"><img align="left" src="https://github.com/lewispour/lewispour/blob/main/linkedin.svg" alt="Lewis Pour | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/lewispour"><img align="left" src="https://github.com/lewispour/lewispour/blob/main/twitter.svg" alt="Lewis Pour | LinkedIn" width="21px"/></a>
-<br>
-<br>
