@@ -1,4 +1,3 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour&txt=Devops%20Engineer%20|%20Cloud%20Explorer"></p>
 <p align="center">
   <a href="https://uk.linkedin.com/in/lewis-pour" target="_blank" rel="noreferrer">
 </p>
@@ -8,8 +7,8 @@
   <li><strong>Name:</strong> Lewis Pour</li>
   <li><strong>Role:</strong> DevOps Engineer</li>
   <li><strong>Company:</strong> Equal Experts</li>
-  <li><strong>Ex:</strong> Capgemini, John Lewis Group, Loyds Banking Group</li>
-  <li><strong>Client:</strong> Currently working on HMRC EIS</li>
+  <li><strong>Ex:</strong> Capgemini, John Lewis Group, HMRC, Loyds Banking Group</li>
+  <li><strong>Client:</strong> Currently working at Hargreaves Lansdown (HL) </li>
 </ul>
 
 <h2 style="color: blue;">🛠️ Skills & Expertise</h2>
