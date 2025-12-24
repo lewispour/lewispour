@@ -7,8 +7,8 @@
   <li><strong>Name:</strong> Lewis Pour</li>
   <li><strong>Role:</strong> DevOps Engineer</li>
   <li><strong>Company:</strong> Equal Experts</li>
-  <li><strong>Ex:</strong> Capgemini, John Lewis Group, HMRC, Loyds Banking Group</li>
-  <li><strong>Client:</strong> Currently working at Hargreaves Lansdown (HL) </li>
+  <li><strong>Ex:</strong> Capgemini, John Lewis Group, HMRC, Loyds Banking Group, Hargreaves Lansdown (HL)</li>
+  <li><strong>Client:</strong> Currently working at HMRC </li>
 </ul>
 
 <h2 style="color: blue;">🛠️ Skills & Expertise</h2>
@@ -25,7 +25,6 @@
 <h2 style="color: blue;">📢 Communication</h2>
 <ul>
   <li><strong>Website:</strong> <a href="https://uk.linkedin.com/in/lewis-pour">LinkedIn</a></li>
-  <li><strong>Website:</strong> <a href="https://lewisthedeveloper.com/about">My Website</a></li>
 </ul>
 
 
