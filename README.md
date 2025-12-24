@@ -24,7 +24,7 @@
 
 <h2 style="color: blue;">📢 Communication</h2>
 <ul>
-  <li><strong>Website:</strong> <a href="https://uk.linkedin.com/in/lewis-pour">LinkedIn</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://uk.linkedin.com/in/lewis-pour">LinkedIn</a></li>
 </ul>
 
 
